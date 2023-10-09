@@ -29,7 +29,7 @@ To use this package, follow these steps:
 
 ```
    dependencies:
-     content_size_tabbarview: ^0.0.1
+     content_size_tabbarview: ^0.0.2
  ```   
 
 
